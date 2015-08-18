@@ -1,6 +1,7 @@
 # Contributing
 
 If you're going to report an issue or submit a pull request, please follow these guidelines.
+a
 
 ## Reporting an Issue
 
